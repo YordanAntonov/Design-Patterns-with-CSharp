@@ -1,0 +1,14 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.runtimeconfig.dev.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.genruntimeconfig.cache

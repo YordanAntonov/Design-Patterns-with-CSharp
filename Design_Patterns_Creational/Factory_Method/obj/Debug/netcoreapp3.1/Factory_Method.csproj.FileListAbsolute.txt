@@ -1,0 +1,14 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.runtimeconfig.dev.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\bin\Debug\net7.0\Simple Factory.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\bin\Debug\net7.0\Simple Factory.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\bin\Debug\net7.0\Simple Factory.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\bin\Debug\net7.0\Simple Factory.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\bin\Debug\net7.0\Simple Factory.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\Simple Factory.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\Simple Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\Simple Factory.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\Simple Factory.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\Simple Factory.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\Simple Factory.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\refint\Simple Factory.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\Simple Factory.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\Simple Factory.genruntimeconfig.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Simple Factory\obj\Debug\net7.0\ref\Simple Factory.dll

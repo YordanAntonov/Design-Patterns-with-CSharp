@@ -1,0 +1,14 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.dev.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Design_Patterns_Creational\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.genruntimeconfig.cache
