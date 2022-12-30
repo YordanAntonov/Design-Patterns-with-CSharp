@@ -1,0 +1,15 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\Composite_Pattern.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\Composite_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\Composite_Pattern.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\Composite_Pattern.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\Composite_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\bin\Debug\net7.0\Composite_Pattern.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\bin\Debug\net7.0\Composite_Pattern.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\bin\Debug\net7.0\Composite_Pattern.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\bin\Debug\net7.0\Composite_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\bin\Debug\net7.0\Composite_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\Composite_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\refint\Composite_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\Composite_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\Composite_Pattern.genruntimeconfig.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Composite_Pattern\obj\Debug\net7.0\ref\Composite_Pattern.dll

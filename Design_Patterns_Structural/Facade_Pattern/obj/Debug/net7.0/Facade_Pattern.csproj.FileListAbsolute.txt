@@ -1,0 +1,15 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\bin\Debug\net7.0\Facade_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\refint\Facade_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\Facade_Pattern.genruntimeconfig.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Facade_Pattern\obj\Debug\net7.0\ref\Facade_Pattern.dll

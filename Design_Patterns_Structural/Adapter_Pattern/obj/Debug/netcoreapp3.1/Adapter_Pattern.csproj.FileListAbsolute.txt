@@ -1,0 +1,14 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\bin\Debug\netcoreapp3.1\Adapter_Pattern.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\bin\Debug\netcoreapp3.1\Adapter_Pattern.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\bin\Debug\netcoreapp3.1\Adapter_Pattern.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\bin\Debug\netcoreapp3.1\Adapter_Pattern.runtimeconfig.dev.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\bin\Debug\netcoreapp3.1\Adapter_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\bin\Debug\netcoreapp3.1\Adapter_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\obj\Debug\netcoreapp3.1\Adapter_Pattern.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\obj\Debug\netcoreapp3.1\Adapter_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\obj\Debug\netcoreapp3.1\Adapter_Pattern.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\obj\Debug\netcoreapp3.1\Adapter_Pattern.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\obj\Debug\netcoreapp3.1\Adapter_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\obj\Debug\netcoreapp3.1\Adapter_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\obj\Debug\netcoreapp3.1\Adapter_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Adapter_Pattern\obj\Debug\netcoreapp3.1\Adapter_Pattern.genruntimeconfig.cache

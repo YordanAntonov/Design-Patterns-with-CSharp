@@ -1,0 +1,15 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\bin\Debug\net7.0\Flyweight_Pattern.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\bin\Debug\net7.0\Flyweight_Pattern.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\bin\Debug\net7.0\Flyweight_Pattern.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\bin\Debug\net7.0\Flyweight_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\bin\Debug\net7.0\Flyweight_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\Flyweight_Pattern.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\Flyweight_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\Flyweight_Pattern.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\Flyweight_Pattern.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\Flyweight_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\Flyweight_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\refint\Flyweight_Pattern.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\Flyweight_Pattern.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\Flyweight_Pattern.genruntimeconfig.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Flyweight_Pattern\obj\Debug\net7.0\ref\Flyweight_Pattern.dll

@@ -1,0 +1,15 @@
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\bin\Debug\net7.0\Decorator.exe
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\bin\Debug\net7.0\Decorator.deps.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\bin\Debug\net7.0\Decorator.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\bin\Debug\net7.0\Decorator.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\Decorator.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\Decorator.pdb
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+C:\Users\yorda\source\repos\ASP.NET WEB APPs\Structural_Design_Patterns\Decorator\obj\Debug\net7.0\ref\Decorator.dll
